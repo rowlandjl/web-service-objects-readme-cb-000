@@ -1,6 +1,6 @@
 class FoursquareService 
   
-  def authenticate!
+  def authenticate!(client_id, client_secret, code)
   end 
   
 end 
